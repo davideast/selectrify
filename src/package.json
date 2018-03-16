@@ -1,0 +1,27 @@
+{
+  "name": "selectrify",
+  "version": "0.0.1",
+  "description": "Because passing callbacks down the component tree is a pain.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "preact": "^8.2.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davideast/selectrify.git"
+  },
+  "keywords": [
+    "preact",
+    "react",
+    "puppies"
+  ],
+  "author": "David East",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davideast/selectrify/issues"
+  },
+  "homepage": "https://github.com/davideast/selectrify#readme"
+}

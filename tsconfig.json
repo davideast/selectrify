@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "module": "esnext",
-    "target": "esnext",
+    "target": "es5",
     "jsx": "react",
     "jsxFactory": "h",
     "moduleResolution": "node",

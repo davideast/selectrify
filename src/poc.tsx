@@ -13,7 +13,7 @@ interface SelectProp {
 
 interface ProfileProps extends AppState, SelectProp { }
 
-class Profile extends Component<ProfileProps, any> {
+class Profile extends Component<any, any> {
 
   toggleName = () => {
     this.props.setState({ nameVisible: !this.props.nameVisible });
