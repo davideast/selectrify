@@ -1,6 +1,6 @@
 {
   "name": "selectrify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Because passing callbacks down the component tree is a pain.",
   "main": "index.js",
   "scripts": {

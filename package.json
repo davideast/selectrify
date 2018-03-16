@@ -1,7 +1,7 @@
 {
   "scripts": {
     "clean": "rm -rf dist",
-    "copy": "cp src/package.json dist/package.json",
+    "copy": "cp src/package.json dist/package.json && cp README.md dist/README.md",
     "build": "yarn clean && tsc && yarn copy"
   },
   "dependencies": {
