@@ -2,6 +2,13 @@
 
 Because passing callbacks down the component tree is a pain.
 
+## Install
+
+```
+npm i selectrify
+```
+
+## Example
 ```js
 import { h, Component, render } from 'preact';
 import select from 'selectrify';
